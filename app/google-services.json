@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161204316928",
+    "firebase_url": "https://horafreelancer.firebaseio.com",
+    "project_id": "horafreelancer",
+    "storage_bucket": "horafreelancer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161204316928:android:c54282f30af33980",
+        "android_client_info": {
+          "package_name": "com.peeru.task.freelancingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161204316928-dv31l3dnju2ucu9csivig122mbg2pic0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peeru.task.freelancingapp",
+            "certificate_hash": "a0fed39c315ca06e3b08935c85780969e5b15202"
+          }
+        },
+        {
+          "client_id": "161204316928-767b51lg00e873j3fv8hille83ethme7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFJiN0wp2rv6j_mztJYvCSucqXzszkMTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161204316928-767b51lg00e873j3fv8hille83ethme7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

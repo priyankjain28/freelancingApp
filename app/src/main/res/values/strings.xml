@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FreeLancingApp</string>
+    <string name="partner">Partner</string>
+    <string name="user">User</string>
+    <string-array name="user_role">
+        <item>Select User Type</item>
+        <item>@string/user</item>
+        <item>@string/partner</item>
+    </string-array>
+
+    <string name="err_msg_name">Please enter name</string>
+    <string name="err_msg_email">Please enter valid email id(Username)</string>
+    <string name="err_msg_password">Please enter password</string>
+</resources>
